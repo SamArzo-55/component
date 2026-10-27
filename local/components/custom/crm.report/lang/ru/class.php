@@ -1,0 +1,18 @@
+<?php
+
+$MESS['CRM_REPORT_TITLE'] = 'Report CRM';
+$MESS['CRM_REPORT_MODULE_NOT_INSTALLED'] = 'download the "crm" module';
+$MESS['CRM_REPORT_ACCESS_DENIED'] = 'access denied';
+$MESS['CRM_REPORT_FILTER_ID'] = 'ID';
+$MESS['CRM_REPORT_FILTER_DATE'] = 'Date Created';
+$MESS['CRM_REPORT_FILTER_DEAL_USER'] = 'Responsible';
+$MESS['CRM_REPORT_FILTER_CONTACT_USER'] = 'Contect Responsible';
+$MESS['CRM_REPORT_GROUP_CONTACT'] = 'Contact';
+$MESS['CRM_REPORT_COL_TITLE'] = 'Name';
+$MESS['CRM_REPORT_COL_DATE_CREATE'] = 'Date Created';
+$MESS['CRM_REPORT_COL_RESPONSIBLE'] = 'Responsible';
+$MESS['CRM_REPORT_COL_STAGE'] = 'Stage';
+$MESS['CRM_REPORT_COL_AMOUNT'] = 'Amout';
+$MESS['CRM_REPORT_COL_CONTACT_NAME'] = 'Full Name';
+$MESS['CRM_REPORT_COL_PHONE'] = 'Phone';
+$MESS['CRM_REPORT_COL_EMAIL'] = 'Email';
